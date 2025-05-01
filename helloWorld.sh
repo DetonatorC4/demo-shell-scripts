@@ -4,6 +4,8 @@ echo "Hello this is a shell script running"
 
 echo "I'm from inside the script"
 
+echo "hello again"
+
 # create folder
 mkdir -p shdirectory
 
