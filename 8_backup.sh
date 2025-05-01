@@ -2,6 +2,7 @@
 
 <<info 
 	This shell script will take periodc backups
+	Can also be used with cron
 
 	eg.
 	./backip.sh <src> <dest>	
